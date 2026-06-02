@@ -1,5 +1,5 @@
 # about me
-I am a PhD Candidate in the Department of Electrical and Computer Engineering at the University of Waterloo, building systems that preserve user privacy while remaining practical and efficient. 
+I am a PhD Student in the Department of Electrical and Computer Engineering at the University of Waterloo, building systems that preserve user privacy while remaining practical and efficient. 
 
 * **currently working on:** applied cryptography, focusing on Zero-Knowledge Proofs (zk-SNARKs), oblivious algorithms, and anonymous credentials. 
 * **technical interests:** software acceleration for cryptographic protocols using CUDA, C++, Rust.
