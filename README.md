@@ -1,10 +1,11 @@
-## about me
-I am a PhD Candidate in the Department of Electrical and Computer Engineering at the University of Waterloo, building systems that preserve user privacy while remaining practical and efficient.
-Currently working on: Applied cryptography, focusing on Zero-Knowledge Proofs (zk-SNARKs like PLONK, Aurora, and Ligero), ORAM constructions, and anonymous credentials.
-Technical interests: High-performance computing and hardware acceleration for cryptographic protocols using CUDA, C++, and TPUs.
-Passionate about: Translating complex digital safety and information processing concepts into accessible educational content. Also pretty tech.
-Community: I serve as the Co-President of the Women in Engineering (WiE) Graduate Committee and work as a Graduate Teaching Assistant for computer security courses.
-Fun fact: I enjoy writing prose in the english language
+# about me
+I am a PhD Candidate in the Department of Electrical and Computer Engineering at the University of Waterloo, building systems that preserve user privacy while remaining practical and efficient. 
+
+* **currently working on:** Applied cryptography, focusing on Zero-Knowledge Proofs (zk-SNARKs), oblivious algorithms, and anonymous credentials. 
+* **technical interests:** High-performance computing and hardware acceleration for cryptographic protocols using CUDA, C++, Rust.
+* **passionate about:** Translating complex digital safety and information processing concepts into accessible educational content. 
+* **community:** I serve as the Co-President of the Women in Engineering (WiE) Graduate Committee and work as a Graduate Teaching Assistant for computer security courses.
+
 
 ## socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@pink_parentheses) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmayijandhyala) 
